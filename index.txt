@@ -1,2 +1,2 @@
-Hola Mundo
+Hello Styde, welcome to styde's git course
 
